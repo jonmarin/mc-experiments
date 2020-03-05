@@ -9,7 +9,13 @@
     "files": [
         "README.md",
         "main.ts",
-        "main.blocks"
+        "main.blocks",
+        "doorbell.ts",
+        "doorbell.blocks",
+        "sensinglight.ts",
+        "sensinglight.blocks",
+        "shoutometer.ts",
+        "shoutometer.blocks"
     ],
     "testFiles": [
         "test.ts"
